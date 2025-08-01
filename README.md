@@ -26,13 +26,6 @@ This project cycles 5 different colored LEDs connected to an ESP32 in a custom b
 
 ---
 
-## 📁 Files Included
-
-- Your Arduino sketch file (e.g., ColorCycle.ino)  
-- .gitignore, LICENSE, README.md
-
----
-
 ## 📃 License
 
 MIT License — free to use, modify, and share.
